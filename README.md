@@ -1,5 +1,5 @@
 Hi, I’m Ogochukwu-ugo, I’m new into web development, & am precisely interested in front-end development for now. 
-I’m currently learning Vue js 3, & I’m looking forward to collaborate with a great teams who are ready to weclome a newbie into their team.
+I’m currently learning Vue js 3, & I’m looking forward to collaborate with a great teams who are ready to welcome a newbie into their team.
 You can reach me through my e-:mail ugorji.ogochukwu@gmail.com
 
 <!---
