@@ -1,6 +1,6 @@
-Hi, I’m Ogochukwu-ugo, I’m new into web development, & am precisely interested in front-end development for now. 
-I’m currently learning Vue js 3, & I’m looking forward to collaborate with a great teams who are ready to welcome a newbie into their team.
-You can reach me through my e-:mail ugorji.ogochukwu@gmail.com
+Hi, I'm Ogochukwu-ugo, and I'm new to web development. For the time being, I'm only interested in front-end development.
+I will complete my frontend engineering training with the Ada Project, which is fully funded by the Ford Foundation, by the end of April 2023, and I'm currently learning React.js. I'm looking forward to collaborating with great teams that are eager to welcome a newcomer.
+You can contact me via email at ugorji.ogochukwu@gmail.com.
 
 <!---
 Ogochukwu-ugo/Ogochukwu-ugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
