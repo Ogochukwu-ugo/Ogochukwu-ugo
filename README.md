@@ -1,5 +1,5 @@
 Hi, I'm Ogochukwu-ugo, and I'm new to web development. For the time being, I'm only interested in front-end development.
-I will complete my frontend engineering training with the Ada Project, which is fully funded by the Ford Foundation, by the end of April 2023, and I'm currently learning React.js. I'm looking forward to collaborating with great teams that are eager to welcome a newcomer.
+I completed my frontend engineering training with the Ada Project, which is fully funded by the Ford Foundation April 2023, and I'm currently learning React.js. I'm looking forward to collaborating with great teams that are eager to welcome a newcomer.
 You can contact me via email at ugorji.ogochukwu@gmail.com.
 
 <!---
